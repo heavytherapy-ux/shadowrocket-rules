@@ -1,0 +1,15 @@
+payload:
+  # APPLE BLACKHOLE (Снайперский отстрел)
+  - DOMAIN,ocsp.apple.com
+  - DOMAIN,ocsp2.apple.com
+  - DOMAIN,valid.apple.com
+  - DOMAIN,crl.apple.com
+  - DOMAIN,certs.apple.com
+  - DOMAIN,appattest.apple.com
+  - DOMAIN,vpp.itunes.apple.com
+  - DOMAIN,telemetry.apple.com
+  
+  # GAME ROUTING (Направляем трафик на группу)
+  - DOMAIN,brawl.server.dnull.xyz
+  - DOMAIN,nb.nullsproxy.com
+  - IP-CIDR,95.129.234.92/32
