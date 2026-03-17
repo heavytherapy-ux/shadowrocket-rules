@@ -1,0 +1,10 @@
+DOMAIN,ocsp.apple.com,REJECT
+DOMAIN,ocsp2.apple.com,REJECT
+DOMAIN,valid.apple.com,REJECT
+DOMAIN,crl.apple.com,REJECT
+DOMAIN,certs.apple.com,REJECT
+DOMAIN,appattest.apple.com,REJECT
+DOMAIN,vpp.itunes.apple.com,REJECT
+DOMAIN,telemetry.apple.com,REJECT
+DOMAIN,hummingbird.apple.com,REJECT
+IP-CIDR,95.129.234.92/32
